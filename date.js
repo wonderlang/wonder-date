@@ -1,5 +1,5 @@
 cm.date=x=>(
-  D=new Date(),
+  D=new Date(''+x.body),
   obj({
     str:str(D+''),
     d:num(D.getDate()),
