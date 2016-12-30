@@ -17,3 +17,10 @@ d|date
 D|day of the week
 M|month
 y|year
+
+###Examples
+```
+date #str
+: "s" #date
+date "off"
+```
