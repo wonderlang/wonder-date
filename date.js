@@ -1,4 +1,4 @@
-cm.date=x=>(
+vs.date=x=>(
   D=new Date(''+x.body),
   obj({
     str:str(D+''),
