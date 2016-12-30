@@ -1,5 +1,5 @@
 vs.date=x=>(
-  D=new Date(''+x.body),
+  D=new Date(),
   obj({
     str:str(D+''),
     d:num(D.getDate()),
