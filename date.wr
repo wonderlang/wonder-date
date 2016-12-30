@@ -1,1 +1,1 @@
-js rf "date.js"
+js rf js "__dirname+'/wpm/date/date.js'"
