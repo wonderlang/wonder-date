@@ -1,5 +1,5 @@
 #wonder-date
-A date library for Wonder that makes use of Javascript to modify the standard library.
+A basic date library for Wonder that makes use of Javascript to modify the standard library.
 
 ##Usage
 The library contains one dynamic variable called `date`, which is an object containing data on the date at the time of the call.
